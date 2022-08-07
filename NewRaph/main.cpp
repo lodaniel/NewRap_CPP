@@ -32,7 +32,6 @@ int main(int argc, char** argv)
 			cout<<"err: "<< P.err<<endl;
 			break;
 	}
-	cout<<endl<<"Entre com qualquer numero para sair: ";
-	cin>>flag;
+	system("pause");
 	return 0;
 }
