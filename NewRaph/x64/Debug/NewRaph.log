@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\lucia\source\repos\lodaniel\NewRap_CPP\NewRaph\main.cpp(22,18): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  nr.cpp
+C:\Users\lucia\source\repos\lodaniel\NewRap_CPP\NewRaph\nr.cpp(29,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Gerando Código...
+  NewRaph.vcxproj -> C:\Users\lucia\source\repos\lodaniel\NewRap_CPP\NewRaph\x64\Debug\NewRaph.exe
