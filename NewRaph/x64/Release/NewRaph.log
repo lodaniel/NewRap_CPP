@@ -1,9 +1,10 @@
 ﻿  main.cpp
-C:\Users\lucia\source\repos\lodaniel\NewRap_CPP\NewRaph\main.cpp(22,18): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\lucia\Source\Repos\lodaniel\NewRap_CPP\NewRaph\main.cpp(23,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucia\Source\Repos\lodaniel\NewRap_CPP\NewRaph\main.cpp(14,7): warning C4101: 'flag': unreferenced local variable
   nr.cpp
-C:\Users\lucia\source\repos\lodaniel\NewRap_CPP\NewRaph\nr.cpp(29,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-  Gerando código
-  Previous IPDB not found, fall back to full compilation.
-  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finalizada a geração de código
+C:\Users\lucia\Source\Repos\lodaniel\NewRap_CPP\NewRaph\nr.cpp(29,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
   NewRaph.vcxproj -> C:\Users\lucia\source\repos\lodaniel\NewRap_CPP\NewRaph\x64\Release\NewRaph.exe
